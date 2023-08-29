@@ -1,8 +1,8 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Anurag Kathane 👋
 
 🏗️ Civil Engineering Student | 💻 Web Development Enthusiast | 🌐 Learning and Creating
 
-Hello there! I'm [Your Name], a civil engineering student with a strong passion for programming and web development. Here's a glimpse into my journey:
+Hello there! I'm Anurag Kathane, a civil engineering student with a strong passion for programming and web development. Here's a glimpse into my journey:
 
 ## 🌆 About Me
 
@@ -22,6 +22,6 @@ As I continue to learn and grow in the programming landscape, my goal is to beco
 
 ## 🌍 Let's Connect
 
-I'm eager to connect with fellow programmers, developers, and enthusiasts. Whether you want to chat about coding, collaborate on projects, or just connect, feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/anuragk2003/]) or [Instagram](https://instagram.com/imanurag_k).
+I'm eager to connect with fellow programmers, developers, and enthusiasts. Whether you want to chat about coding, collaborate on projects, or just connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anuragk2003/) or [Instagram](https://instagram.com/imanurag_k).
 
 Here's to the wonderful journey of learning and coding ahead! 🚀
