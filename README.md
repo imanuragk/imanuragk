@@ -22,6 +22,6 @@ As I continue to learn and grow in the programming landscape, my goal is to beco
 
 ## 🌍 Let's Connect
 
-I'm eager to connect with fellow programmers, developers, and enthusiasts. Whether you want to chat about coding, collaborate on projects, or just connect, feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragk2003) or [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imanurag_k).
+I'm eager to connect with fellow programmers, developers, and enthusiasts. Whether you want to chat about coding, collaborate on projects, or just connect, feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragk2003) or [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imanurag_k).
 
 Here's to the wonderful journey of learning and coding ahead! 🚀
